@@ -110,3 +110,6 @@ chimney.draw(window)
 house.draw(window)
 window1.draw(window)
 window2.draw(window)
+
+window.getMouse()
+window.close()
