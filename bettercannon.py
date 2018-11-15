@@ -2,7 +2,6 @@ from tkinter import *
 from random import randrange as rnd, choice
 import math
 
-# print (dir(math))
 
 import time
 
@@ -12,7 +11,7 @@ root.geometry('800x600')
 canv = Canvas(root, bg='cyan')
 canv.pack(fill=BOTH, expand=1)
 
-#colors = ['red', 'orange', 'yellow', 'green', 'blue', 'gray', 'black']
+
 
 
 class Ball:
