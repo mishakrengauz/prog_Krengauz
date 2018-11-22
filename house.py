@@ -1,19 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 12 08:06:14 2018
-
-@author: mihailkrengauz
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  5 07:42:05 2018
-
-@author: Михаил
-"""
-
-
 import graphics as gr
 
 window = gr.GraphWin("Misha's project", 800, 400)
