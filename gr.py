@@ -51,9 +51,13 @@ def draw_house():
     window2.draw(window)
 
 
-draw_nature()
-draw_cloud()
-draw_house()
+def main():
+    draw_nature()
+    draw_cloud()
+    draw_house()
+    window.getMouse()
+    window.close()
 
-window.getMouse()
-window.close()
+
+if __name__ == "__main__":
+    main()
